@@ -60,7 +60,7 @@
     - Equipo -> Dano
     - Servidor
 - Compatibilidad de equipo
-# Software
+## Software
 - Firmwell
 - Licencia
 - Configuracion (Red)
