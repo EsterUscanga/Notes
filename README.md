@@ -28,6 +28,16 @@
 # Capas de Red
 ![](https://user-images.githubusercontent.com/14984859/58722855-275d2d00-839e-11e9-94bc-3ffff55779d7.jpg)
 
+# Distribuciones de Red en edificios de la UPA
+
+## Edificio 1
+## Edificio 2
+## Edificio 3 
+## Edificio 4
+## Edificio 5
+## Edificio 6
+## Edificio 7
+
 # Diseno de Red
 ![](https://user-images.githubusercontent.com/14984859/58218995-cfa03100-7cce-11e9-81a6-be3c71536268.png)
 
