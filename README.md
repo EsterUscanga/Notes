@@ -25,6 +25,9 @@
 - Practica 40%. Viernes 31 de Mayo.
 - Portafolio de trabajo 30%. Jueves 30 de Mayo.
 
+# Capas de Red
+![](https://user-images.githubusercontent.com/14984859/58722855-275d2d00-839e-11e9-94bc-3ffff55779d7.jpg)
+
 # Diseno de Red
 ![](https://user-images.githubusercontent.com/14984859/58218995-cfa03100-7cce-11e9-81a6-be3c71536268.png)
 
