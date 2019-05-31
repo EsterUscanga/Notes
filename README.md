@@ -31,14 +31,35 @@
 # Distribuciones de Red en edificios de la UPA
 
 ## Edificio 1
-![61219183_668825186892114_2819187580719857664_n](https://user-images.githubusercontent.com/14984859/58722855-275d2d00-839e-11e9-94bc-3ffff55779d7.jpg)
+![61219183_668825186892114_2819187580719857664_n](https://user-images.githubusercontent.com/14984859/58738116-090d2680-83ca-11e9-8ab6-ab71907cd058.png)
+
+![](https://user-images.githubusercontent.com/14984859/58738128-1b876000-83ca-11e9-807e-0fe6c7755529.png)
 
 ## Edificio 2
+
+![](https://user-images.githubusercontent.com/14984859/58738151-2b06a900-83ca-11e9-89f9-c08a430a0e66.png)
+
 ## Edificio 3 
+
+![](https://user-images.githubusercontent.com/14984859/58738646-48d50d80-83cc-11e9-9d69-9745aa5d19f2.png)
+
 ## Edificio 4
+
+![](https://user-images.githubusercontent.com/14984859/58738167-3bb71f00-83ca-11e9-8e7d-4a88af643b1b.png)
+
 ## Edificio 5
+
+![](https://user-images.githubusercontent.com/14984859/58738174-44a7f080-83ca-11e9-92c9-6648f675d13f.png)
+
+![](https://user-images.githubusercontent.com/14984859/58738193-5ee1ce80-83ca-11e9-84e4-7d7e1dc0d855.png)
+
 ## Edificio 6
+
+![](https://user-images.githubusercontent.com/14984859/58738207-71f49e80-83ca-11e9-878e-1de68000eacf.png)
+
 ## Edificio 7
+
+![](https://user-images.githubusercontent.com/14984859/58738246-8fc20380-83ca-11e9-9e55-0b6f4970d0f6.png)
 
 # Diseno de Red
 ![](https://user-images.githubusercontent.com/14984859/58218995-cfa03100-7cce-11e9-81a6-be3c71536268.png)
@@ -62,6 +83,11 @@
     - Equipo -> Dano
     - Servidor
 - Compatibilidad de equipo
+- Brechas de seguridad
+- Fallas en el los dispositivos de fabrica
+- Cableado mal hecho
+- Si es inalambrico que la distancia no cubra
+
 ## Software
 - Firmwell
 - Licencia
@@ -71,3 +97,4 @@
 - Actualizaciones
 - Servicios Bloqueados
 - Sobre carga de peticiones
+- Por fallas de seguridad
