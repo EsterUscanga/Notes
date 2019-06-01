@@ -24,6 +24,12 @@ Alumna: Ester Uscanga Olea
 <br>
 
 <h3 align="right">
+ISEI08B
+</h3>
+<br>
+<br>
+
+<h3 align="right">
 Programa educativo: Ingenieria en  Sistemas Estrategicos de Informacion
 </h3>
 <br>
@@ -33,7 +39,7 @@ Programa educativo: Ingenieria en  Sistemas Estrategicos de Informacion
 <br>
 
 <h3 align="left">
-Mayo - Agosto
+Mayo - Agosto, Aguascalientes, Ags.
 </h3>
 <br>
 <br>
