@@ -1,4 +1,4 @@
-![](https://upa.edu.mx/images/upa_header2_veda.png)
+![](https://user-images.githubusercontent.com/14984859/58754825-0a0f8800-849e-11e9-84cd-2b4d28197e9b.png)
 
 <h2 align="right">
 Intercomunicaciones
