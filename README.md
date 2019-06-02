@@ -46,20 +46,26 @@ Mayo - Agosto, Aguascalientes, Ags.
 
 
 # Intercomuniciones
-## Unidad 1. Introduccion de conceptos de disenos de red.
+## [Unidad 1. Introduccion de conceptos de disenos de red.](#unidad-1)
+### [Contenidos](#contenidos)
+### [Capas de Red](#capas-de-red)
+### [Distribuciones de Red en edificios de la UPA](#distribuciones-de-red-en-edificios-de-la-upa)
+### [Diseno de Red](#diseno-de-red)
 ## Unidad 2. Estimacion del impacto de aplicaciones.
 ## Unidad 3. Creacion y direccionamiento del diseno de la red.
 ## Unidad 4. Prototipos de redes.
 ## Unidad 5. Preparacion de la propuesta.
-## Anexos
+## [Anexos](#anexos)
 
 # Unidad 1
 
-## Resultados de aprendizaje:
+# Contenidos
+
+## Resultados de aprendizaje
 - Identificar los principios basicos del diseno de redes segun necesidades.
 - Describir las ventajas de un diseno de red jerarquico y explicar las consideraciones de diseno para areas especificas de la red.
 
-## Resultados parciales de aprendizaje:
+## Resultados parciales de aprendizaje
 - Observar los requerimentos claves del diseno red.
 - Identificar las capas de nucleo, distribucion y acceso en un edificio de trabajo.
 - Analizar los pasos del pryecto de diseno de redes.
@@ -152,15 +158,6 @@ Acceso: punto de entrada y de salida de las conexiones de red
     - Equipo -> Dano
     - Servidor
 - Compatibilidad de equipo
-
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-
-## Example
-## Example2
-## Third Example
 - Brechas de seguridad
 - Fallas en el los dispositivos de fabrica
 - Cableado mal hecho
