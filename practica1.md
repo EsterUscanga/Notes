@@ -20,3 +20,9 @@
 3. Permitir todos los HOST a la VLAN de administrativos.
 # Propuesta de VPN
 Solo la VLAN de Administrativos contara con un VPN con un canal de acceso
+
+# Integrantes
+
+Julio Octavio
+Jorge Zamora
+Ester Uscanga
