@@ -183,12 +183,14 @@ Acceso: punto de entrada y de salida de las conexiones de red
 
 # Unidad 2. Estimacion en el impacto de aplicaciones de red
 ## Resultado de aprendizaje
-    - Identificar las caracteristicas de las apliaciones de red diferentes, como afecta a la incorporacion de las aplicaciones de diseno de red
-    - Describir las caracteristicas de las aplicaciones de red diferentes y como afecta a la incorporacion de las aplicaciones de diseno de red
+- Identificar las caracteristicas de las apliaciones de red diferentes, como afecta a la incorporacion de las aplicaciones de diseno de red
+- Describir las caracteristicas de las aplicaciones de red diferentes y como afecta a la incorporacion de las aplicaciones de diseno de red
 ## Resultados parciales de aprendizaje
-    - Analisis de fases de diseno de red
-    - Observar y analizar como se realiza una solicitud de propuesta(RFP)
-    - Observar y analizar como se realiza una solicitud de cotizacion(RFQ)
-    - Identificar y analizar los tipos de usuarios implicados en el diseno de red
-    - Realizar diagramas fisicos y logicos de red
+- Analisis de fases de diseno de red
+- Observar y analizar como se realiza una solicitud de propuesta(RFP)
+- Observar y analizar como se realiza una solicitud de cotizacion(RFQ)
+- Identificar y analizar los tipos de usuarios implicados en el diseno de red
+- Realizar diagramas fisicos y logicos de red
+- Analizar el trafico de red interno y externo
+- Analizar reglas del cableado estructurado 
     
