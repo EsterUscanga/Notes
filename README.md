@@ -179,7 +179,6 @@ Acceso: punto de entrada y de salida de las conexiones de red
 - Conectividad con limitado acceso
 - No se puede unir a lared cuando el pull direcciones ip se ha agotado
 - Que no se pueda establecer la conexion VPN
-# Anexos
 
 # Unidad 2. Estimacion en el impacto de aplicaciones de red
 ## Resultado de aprendizaje
@@ -193,4 +192,7 @@ Acceso: punto de entrada y de salida de las conexiones de red
 - Realizar diagramas fisicos y logicos de red
 - Analizar el trafico de red interno y externo
 - Analizar reglas del cableado estructurado 
+# Anexos
+
+
     
