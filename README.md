@@ -193,12 +193,15 @@ Acceso: punto de entrada y de salida de las conexiones de red
 - Analizar el trafico de red interno y externo
 - Analizar reglas del cableado estructurado 
 # Evaluaciones
-## Practica: 19 de Junio
+## Practica: 19 de Junio 
 ### Materiales
 - 1 metro de cable utp 5e
 - Minimo 3 Plugs RJ45
 - Jack RJ45
     - Con caja
+## Cuestionario: 21 de Junio (30%)
+## Practica 2: 26 de Junio (50%)
+## Portafolio de trabajo: 26 de Junio (20%)
 # Anexos
 
 
