@@ -202,6 +202,16 @@ Acceso: punto de entrada y de salida de las conexiones de red
 ## Cuestionario: 21 de Junio (30%)
 ## Practica 2: 26 de Junio (50%)
 ## Portafolio de trabajo: 26 de Junio (20%)
+# Fases de diseno de red
+- Preparacion
+    - Iniciar con levantamiento de requerimiento de requerimientos
+    - Identificar dudas y resolverlas y resolveras
+- Planificacion
+    - Identificar necesidades, herramientas y todo el material de trabajo, incluyendo capital humano
+- Diseno
+- Implementacion
+- Operaciones
+- Optimizacion
 # Anexos
 
 
