@@ -209,9 +209,13 @@ Acceso: punto de entrada y de salida de las conexiones de red
 - Planificacion
     - Identificar necesidades, herramientas y todo el material de trabajo, incluyendo capital humano
 - Diseno
+    - Normas, estandares internacionales (CABLEADO ESTRUCTURADO - ADMINISTRACION DE SITE)
 - Implementacion
+    - Puesta en marcha de nuestra red
 - Operaciones
+    - Configuracion logica de red
 - Optimizacion
+    Mejoras fisicas y logicas
 # Anexos
 
 
