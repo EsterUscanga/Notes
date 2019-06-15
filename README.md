@@ -216,6 +216,18 @@ Acceso: punto de entrada y de salida de las conexiones de red
     - Configuracion logica de red
 - Optimizacion
     Mejoras fisicas y logicas
+# RFP
+# RFQ
+# Usuarios en la red
+## Identificar tipos de usuarios en la red
+- Administradores
+- Disenadores
+- Implemantacion
+- etc
+## Especificaciones, carateristicas
+- Facores a considerar para el diseno
+    - fisico
+    - logico
 # Anexos
 
 
