@@ -217,17 +217,54 @@ Acceso: punto de entrada y de salida de las conexiones de red
 - Optimizacion
     Mejoras fisicas y logicas
 # RFP
+## Contexto
+- Edificio de tres plantas
+- Servicios de agua en segundo piso
+- Servicios de electricidad en segundo piso
+## Objeto
+Instalacion de cableado estructurado para el edificio
+## Descripcion de solucion
+- Instalar site en primer piso creando una habitacion completamente alejada de la electricidad, dotando al site los elementos necesarios 
+  regulan los estandares de calidad
+- El cableado 
+
 # RFQ
+El proyecto exige que se realicen las acciones oportunas para que un sistema lo más automatizado posible capture datos libremente disponibles en la Red sobre el objeto a analizar: exposiciones temporales de contenido y/o carácter artístico en adelante ETA. Los datos deben poder, a posteriori, ser susceptibles de recibir un análisis cuantitativo y/o cualitativo que permita extraer conclusiones científicamente válidas y, por tanto, generar nuevo conocimiento. 
+Para cumplir adecuadamente con el cometido, las características requeridas por el sistema UPA (en adelante, SU) deberán ser las siguientes:  
+- Captura automatizada de información. 
+- Localización de fuentes de información primarias a partir de las cuales se obtendrán los datos sobre el sistema SU.
+- Puesta a disposición de los datos capturados a los actores encargados de su consolidación y revisión.
+- Establecimiento del proceso de captura como tarea automatizada y repetitiva. 
+- Establecimiento de filtros previos que afinen el proceso de captura en función de la pertinencia de los contenidos localizados en las fuentes remotas de la Red. 
+- Consolidación de la información localizada.
+- Revisión del conjunto de capturas por parte de los actores encargados de ello, descartando la información capturada no relevante a los efectos del propósito de SU.
+- Completado de la información considerada esencial en cada ETA localizada y que esté ausente en los datos primarios capturados de las ubicaciones remotas de la Red. 
+- Almacenamiento de los datos localizados y revisados en un SGBD con garantías de seguridad, fiabilidad y posibilidades de recuperación. 
+- Normalización de la información almacenada mediante revisiones que garanticen la recuperabilidad y homologabilidad de los datos y permitan su clasificación y ordenación.
+- Explotación de la información.
+- Generación de un formato exportable para su uso por parte de los actores externos a EF y pertenecientes a SU, regido por normativa de intercambio lo más estándar posible, adaptada a las peculiaridades de la estructura y arquitectura de datos de la aplicación. 
+- Creación de un mecanismo de exportación de los datos consolidados y normalizados a los actores externos intervinientes que formen parte de SU y estén habilitados para ello previa adecuada salvaguarda de identificación y validez da las solicitudes de acceso. 
+- Creación de un mecanismo de explotación directa de la información cuantificable de los datos coleccionados, disponible desde el apropiado interfaz de EF y paralela a cualquier otra implementación que al respecto puedan llevar a cabo los oportunos actores de SU.
+
 # Usuarios en la red
 ## Identificar tipos de usuarios en la red
 - Administradores
+Mantienen el Hardware y Software de la red. Esto incluye el despliegue, mantenimiento y monitoreo del engranaje de la red: Switches, Routers, Cortafuegos, etc.
 - Disenadores
-- Implemantacion
-- etc
+Diseñan e implementan redes informáticas y de información, tales como redes de área local (LAN), redes de área amplia (WAN), intranet, extranet y otras redes de comunicación de datos. Desempeñan tareas de configuración, análisis y planificación de red. También pueden diseñar medidas de seguridad para computadoras y redes informáticas. Pueden investigar y recomendar programas software y hardware de redes y de comunicación de datos.
+- Usuario anónimo.
+Es aquel que navega en sitios web (o usa cualquier servicio de la red) sin autenticarse como usuario registrado. A los usuarios les gusta sentirse libres para expresarse, mientras que ciertos organismos quisieran un mayor control de todo el movimiento por la red para actuar con más eficacia contra la delincuencia online.
+Usuarios en función de su experiencia.
+    - Inexpertos: son las personas que no tienen experiencia en el uso de máquinas y tecnología.
+    - Principiantes: personas que han tenido algún contacto con maquinaria y tecnología;
+    - Habilitados: son usuarios competentes, pero que les falta algo (al nivel de conocimiento o comprensión) que les permitan ser clasificados como expertos.
+    - Expertos: se trata de personas que poseen tan vasto conocimiento sobre la maquinaria y tecnología, que serían capaces de desmontarla y volver a montarla si fuera necesario. Constituyen un grupo relativamente pequeño de personas.
 ## Especificaciones, carateristicas
 - Facores a considerar para el diseno
     - fisico
+    Configuracion con dispositivos de red fisicamente
     - logico
+    Configuracion de protocolos
 # Anexos
 
 
