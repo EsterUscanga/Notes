@@ -199,6 +199,16 @@ Acceso: punto de entrada y de salida de las conexiones de red
 - Minimo 3 Plugs RJ45
 - Jack RJ45
     - Con caja
+## Desarrollo
+![](https://user-images.githubusercontent.com/14984859/60763257-26bb5480-a036-11e9-8aa3-5515e248e113.png)
+
+Se separaon los cables y se ordenaron en la forma de cable normal. Se poncho el plug y quedo de la siguiente manera:
+
+![](https://user-images.githubusercontent.com/14984859/60763259-35097080-a036-11e9-924d-130b6dc70953.png)
+
+Se hizo un proceso parecido con los jacks, solo que la configuracion que indicaba el proovedor
+
+![](https://user-images.githubusercontent.com/14984859/60763265-536f6c00-a036-11e9-98ca-3f6f5a4c02b8.png)
 ## Cuestionario: 21 de Junio (30%)
 ## Practica 2: 26 de Junio (50%)
 ## Portafolio de trabajo: 26 de Junio (20%)
