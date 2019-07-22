@@ -275,6 +275,87 @@ Usuarios en función de su experiencia.
     Configuracion con dispositivos de red fisicamente
     - logico
     Configuracion de protocolos
+    
+	Rendimiento y seguridad de una red
+Seguridad de una red
+La Seguridad en redes tiene el objetivo de mantener el intercambio de información libre de riesgo y proteger los recursos informáticos de los usuarios y las Organizaciones. Generalmente, se encuentra amenazada por riesgos que van de la mano con el aumento del uso de Internet en las Instituciones de todos los ámbitos. De esta forma, la Seguridad en redes es la clave para conseguir la confianza de los visitantes web.
+La seguridad de la red es la práctica de prevenir y proteger contra la intrusión no autorizada en redes corporativas. Como filosofía, complementa la seguridad del punto final, que se centra en dispositivos individuales; la seguridad de la red se centra en cómo interactúan esos dispositivos y en el tejido conectivo entre ellos.
+Conceptos básicos
+Protección: debe configurar sus redes y redes lo más correctamente posible.
+Detección: debe ser capaz de identificar cuándo ha cambiado la configuración o si algún tráfico de red indica un problema.
+Reacción: después de identificar los problemas rápidamente, responderlos y regresar a un estado seguro.
+Control de acceso: bloquea a usuarios y dispositivos no autorizados de su red.
+Antimalware: Su esfuerzo de seguridad debe hacerse para prevenir infecciones y también para el malware raíz que se dirige a su red.
+Análisis de comportamiento: debe saber cómo es el comportamiento normal de la red para poder detectar anomalías o infracciones a medida que ocurren.
+Prevención de pérdida de datos: Debe implementar tecnologías y procesos para garantizar que los empleados no envíen deliberadamente o inadvertidamente datos confidenciales fuera de la red.
+Firewalls: establecen una barrera entre su zona de confianza y el exterior. No excluyen la necesidad de una estrategia de defensa en profundidad, pero siguen siendo imprescindibles.
+VPN: Una herramienta (típicamente basado en IPsec o SSL) que autentica la comunicación entre un dispositivo y una red segura, creando un "túnel" seguro y encriptado a través de la Internet abierta.
+Segmentación de red: la segmentación definida por software en diferentes clasificaciones y facilita la aplicación de políticas de seguridad.
+
+
+
+Rendimiento de una red
+El rendimiento de una red se refleja por la capacidad de transmisión que tenga y esta se puede medir en su tasa de transferencia y su latencia
+Tasa de trasferencia
+la cantidad de datos transmitida por una red aumenta debido al número de usuarios de las redes, así como a la complejidad de los datos transmitidos. La tasa de trasferencia se refiere a la velocidad que se pueden transferir los datos, también es común mente dicho ancho de banda a la capacidad de transferir información. 
+Una tasa de transferencia alta es deseable cuando se transmiten grandes cantidades de datos.
+Latencia
+Totalmente relacionado con el tiempo que le toma a un paquete de datos llegar de un punto a otro (de un extremo de la red a otro). Una latencia baja es importante cuando se transmiten bajos volúmenes de datos
+
+Los puntos a considerar para un buen rendimiento de red son:
+° A mayor cantidad de equipos en la red, mayor tráfico de red. A medida que aumenta el tráfico, tienden a aumentar la anulación de colisiones y las colisiones, que ralentizan la red, de forma que CSMA/CD puede convertirse en un método de acceso lento.
+° Después de cada colisión, ambos equipos tendrán que retransmitir sus datos. Si la red está muy saturada, es posible que los intentos de ambos equipos produzcan colisiones en la red con los paquetes de otros equipos. Si ocurre esto, tendremos cuatro equipos (los dos originales y los dos equipos cuyos paquetes han colisionado con los paquetes retransmitidos) que tienen que volver a transmitir. Este aumento de las retransmisiones puede hacer que la red quede paralizada.
+° La ocurrencia de este problema depende del número de usuarios que intenten utilizar la red y de las aplicaciones que estén utilizando. Las aplicaciones de bases de datos tienen a colocar en la red más datos que las aplicaciones de procesamiento de textos.
+° Dependiendo de los componentes hardware, del cableado y del software de red, la utilización de una red CSMA/CD con muchos usuarios utilizando aplicaciones de bases de datos puede llegar a ser frustrante, debido al elevado tráfico de la red.
+
+
+
+
+Puntos de acceso en red inalámbrica (WAP o AP)
+
+Un punto de acceso es un dispositivo que crea una red de área local inalámbrica (WLAN), normalmente en una oficina o un edificio de grandes dimensiones. Un punto de acceso se conecta a un router, switch o hub por un cable Ethernet y proyecta una señal Wi-Fi en un área designada. Por ejemplo, si desea habilitar el acceso Wi-Fi en la zona del vestíbulo de su empresa, pero no tiene un router que pueda cubrirla puede instalar un punto de acceso cerca de la recepción y conectarlo con un cable por el techo a la sala del servidor.
+Dando la posibilidad de manejar hasta 60 conexiones simultáneas los puntos de acceso le ofrecen la libertad de escalar el número de dispositivos que la red puede admitir.
+° Los puntos de acceso profesionales pueden ser instalados en cualquier ubicación donde pueda colocar un cable de Ethernet. Los modelos más modernos son compatibles también con la función Power over Ethernet Plus (PoE+), un combo entre un cable Ethernet y uno de alimentación, por lo que no es necesario instalar cableado eléctrico adicional o un enchufe cerca del punto de acceso.
+° Algunas funciones estándar complementarias incluyen Portal Cautivo y la Lista de Control de Acceso (ALC), para que pueda limitar el acceso a los usuarios invitados sin comprometer la seguridad de la red y gestionar las cuentas de usuarios dentro de su red Wi-Fi.
+° Algunos puntos de acceso incluyen la función de clústering, que ofrece un punto único desde el que el administrador de TI puede visualizar, instalar, configurar y proteger una red Wi-Fi como una única entidad en vez de como múltiples configuraciones de puntos de acceso.
+
+Documentación para el diseño de una red
+
+Para realizar una red se debe tener muy en claro los requerimientos y necesidades proporcionados por el cliente, así como los planos y la disponibilidad de espacio y sitio. Para poder llevar a cabo toda la documentación con los menores errores posibles se busca reunir la siguiente información:
+° Planificar los requisitos de hardware y la topología de red
+	En esta parte se debe tener en cuenta:
+Tasa de transferencia
+Tiempo de respuesta
+Acceso a los recursos
+Capa de red
+Capa de enlace de datos
+Capa física
+° Determinar las direcciones IP, nombres de Host y servicios de nombres a utilizar en la red.
+Tal vez la más complicada parte del diseño y la documentación de una red debido al contenido que debe cubrir. Para poder documentar todo este apartado se sugiere responder las siguientes cuestiones
+¿Quiénes son las personas que utilizarán la red?
+¿Cuál es el nivel de capacitación de estas personas?
+¿Cuáles son sus actitudes con respecto a las computadoras y las aplicaciones informáticas?
+¿Cuál es el nivel de desarrollo de las políticas documentadas organizacionales?
+¿Algunos de los datos han sido declarados críticos para el trabajo?
+¿Algunas operaciones han sido declaradas críticas para el trabajo?
+¿Cuáles son los protocolos que están permitidos en la red?
+¿Sólo se soportan determinados hosts de escritorio?
+¿Quién es responsable de las direcciones, la denominación, el diseño de topología y la configuración de las LAN?
+¿Cuáles son los recursos humanos organizacionales, de hardware y de software?
+¿Cómo se vinculan y comparten estos recursos actualmente?
+° Establecer subdivisiones administrativas y Diseñar una estrategia de subredes
+	Aquí es donde inicia el diseño con sus respectivos mapas y planeaciones. 
+Mapa de topología de capa OSI
+Mapa lógico de LAN
+Mapa físico de la LAN
+Planes de distribución
+Mapa lógico de VLAN
+Mapa lógico de Capa 3
+Mapas de dirección
+
+
+
+
 # Anexos
 
 
