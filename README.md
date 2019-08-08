@@ -415,37 +415,62 @@ Las congestiones en la red son muy comunes y variadas, por ello vamos a discutir
 
 ### Fallas de enlace y dispositivos
 
-1.- Conflictos con direcciones IP
+1. Conflictos con direcciones IP
+
 Los servicios DHCP en general, poseen sistemas que les ayuda a prevenir que asignen una IP repetida a un equipo en la red. Sin embargo, ocasionalmente puede ocurrir que 2 equipos tengan la misma IP, ya que uno de ellos puede estar configurado estáticamente. Este hecho se conoce como IP Duplicada.
+
 2.- Fallas en switches o Routers
+
 En algunos casos las fallas en la red no tienen una causa aparente. Por ejemplo, nuestra máquina puede enviar y recibir correos sin problemas mas no tiene acceso a internet, o estamos tranquilamente navegando la red cuando de un momento a otro se pierde el acceso y pasados algunos minutos hay internet de nuevo.
+
 3.- Conectar equipos desordenadamente
+
 La necesidad de conectividad suele crecer demasiado rápido, y esto provoca que se terminen conectando equipos simplemente al “switch más cercano” o conectar un switch al “switch más cercano” y así infinitamente.
+
 4.- Problemas NetBIOS
+
 NetBIOS es un protocolo de Windows que permite a las computadoras en una red “hablar”. Sin embargo, frecuentemente no trabaja adecuadamente provocando lentitud en nuestra red o generando errores al acceder los archivos compartidos y a veces el corte del servicio.
+
 5.- Tarjetas de red defectuosas
+
 Un problema común es la presencia de este tipo de fallas. Cuando un equipo produce errores esporádicos o intermitentes, sobre todo cuando están relacionados con una estación de trabajo en particular.
+
 6.- Insuficiente Ancho de Banda
+
 Puede ocurrir que simplemente el ancho de banda que tenemos no abastece todas las exigencias de la red, puede ser de manera local como de internet, es bueno invertir en nuestra red de comunicaciones, un cable Cat5E puede ser muy poco si las exigencias son muy altas, tenemos cables Cat6 o incluso Cat7 que se pueden utilizar en la red.
+
 7.- Errores DNS
+
 Básicamente los servidores DNS nos ayudan a resolver nombres, para acceder a google.com después de escribirlo en nuestro navegador el sistema lo resuelve y luego vemos la página en nuestro navegador.
+
 8.- Infecciones SpyWare
+
 En esencia un virus de este tipo transmite información de nuestro ordenador a una entidad externa, obviamente sin nuestro permiso.
+
 9.- Infecciones de Virus
+
 En este punto son clave las normas o políticas de la empresa en cuanto al uso de internet, la disciplina puede ahorrarnos muchísimos problemas.
+
 10.- Demasiadas aplicaciones que operan sobre la red.
+
 En muchos casos desde internet se instalan programas que se conectan a internet, software P2P (peer to peer), etc. Que sobrecargan inútilmente nuestra red. Identificarlos y desactivar los que no son esenciales es crítico.
-Enlaces redundantes
+
+### Enlaces redundantes
+
 Los sistemas redundantes, son aquellos en los que se repiten datos o hardware de carácter crítico para asegurarlos ante cualquier posible problema que pueda surgir por su uso continuo. En pocas palabras, se trata de un respaldo de datos o de partes físicas de un sistema.
+
 Muchas veces el tiempo de inactividad se debe a la falta de un solo enlace, puerto o dispositivo de red, por ello, este sistema permite detectar errores en la red de la manera más rápida posible y, a la vez, es capaz de recuperarse del problema de forma eficiente y efectiva, localizando de manera precisa dónde se origina el conflicto.
-La redundancia de hardware: Se refiere a las piezas físicas de hardware del servidor. Por ejemplo, una capa de redundancia para los discos duros. La idea es que, si llegara a fallar un disco duro en un servidor, este se mantenga en funcionamiento y tu sitio no deje de estar en línea.
 
-La redundancia de red: Es básicamente la que utiliza tu proveedor de Internet para mantener tu conexión en línea.
+**La redundancia de hardware:** Se refiere a las piezas físicas de hardware del servidor. Por ejemplo, una capa de redundancia para los discos duros. La idea es que, si llegara a fallar un disco duro en un servidor, este se mantenga en funcionamiento y tu sitio no deje de estar en línea.
 
-La redundancia de poder: Son respaldos de alimentación eléctrica que mantiene a los servidores y salas de datos en ejecución en caso de una falla en el suministro de luz, como baterías y generadores externos.
+**La redundancia de red:** Es básicamente la que utiliza tu proveedor de Internet para mantener tu conexión en línea.
 
-La redundancia geográfica: Proporciona servicios de red dirigida, de modo que, en el caso de una falla completa del centro de datos, la información puede ser desviada a servidores ubicados en otro lugar físico a varios kilómetros de distancia.
-Balanceo de cargas
+**La redundancia de poder:** Son respaldos de alimentación eléctrica que mantiene a los servidores y salas de datos en ejecución en caso de una falla en el suministro de luz, como baterías y generadores externos.
+
+**La redundancia geográfica:** Proporciona servicios de red dirigida, de modo que, en el caso de una falla completa del centro de datos, la información puede ser desviada a servidores ubicados en otro lugar físico a varios kilómetros de distancia.
+
+### Balanceo de cargas
+
 De forma sencilla, el balanceo de carga es la manera en que las peticiones de Internet son distribuidas sobre una fila de servidores. Existen varios métodos para realizar el balanceo de carga. Desde el simple "Round Robín" (repartiendo todas las peticiones que llegan de Internet entre el número de servidores disponibles para dicho servicio) hasta los equipos que reciben las peticiones, recogen información, en tiempo real, de la capacidad operativa de los equipos y la utilizan para enrutar dichas peticiones individualmente al servidor que se encuentre en mejor disposición de prestar el servicio adecuado.
 Los balanceadores de carga pueden ser soluciones hardware, tales como routers y switches que incluyen software de balanceo de carga preparado para ello, y soluciones software que se instalan en el back end de los servidores.
 
